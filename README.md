@@ -15,4 +15,4 @@ This project is part of my internship at Hunar Intern. It uses Linear Regression
 ## 👩‍💻 Developed by:
 Tanu Kushwah  
 
-![Actual vs Predicted Temperature](output_graph.png.)
+![Actual vs Predicted Temperature](output_graph.png)
