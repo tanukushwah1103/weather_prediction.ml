@@ -1,4 +1,4 @@
-# Weather Prediction using Linear Regression
+fr# Weather Prediction using Linear Regression
 
 This project is part of my internship at Hunar Intern. It uses Linear Regression to predict temperature based on humidity and wind speed.
 
@@ -15,4 +15,10 @@ This project is part of my internship at Hunar Intern. It uses Linear Regression
 ## 👩‍💻 Developed by:
 Tanu Kushwah  
 
-![Actual vs Predicted Temperature](output_graph.png)
+## 🔗 Run Environment:
+
+The code was developed and executed on **Google Colab**.
+
+> ⚠️ Due to mobile limitations, the graph image has not been uploaded here.  
+> It is included separately in the printed submission.
+
