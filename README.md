@@ -14,4 +14,5 @@ This project is part of my internship at Hunar Intern. It uses Linear Regression
 
 ## 👩‍💻 Developed by:
 Tanu Kushwah  
-BCA, IMS Noida | Roll No: 230919000350
+
+
